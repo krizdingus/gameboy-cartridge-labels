@@ -2,6 +2,10 @@
 
 Welcome to the Game Boy Cartridge Labels Repository! This repository is dedicated to providing custom labels for various Game Boy games, especially focusing on romhacks and translations, as well as labels for specific cartridge types. These labels are perfect for enthusiasts and collectors who wish to enhance their reproduction Game Boy cartridges.
 
+## Accessing the Labels
+
+All labels are stored in the `/labels` directory of this repository. Navigate to this directory to find all available labels, organized by game and cartridge type.
+
 ## What's Included
 
 This repository includes high-quality labels for the following Game Boy games:
