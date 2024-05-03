@@ -1,6 +1,6 @@
 # Krizdingus' Custom Game Boy Cartridge Labels
 
-Welcome to the Game Boy Cartridge Labels Repository! This repository is dedicated to providing custom labels for various Game Boy games, especially focusing on romhacks and translations, as well as labels for specific cartridge types. These labels are perfect for enthusiasts and collectors who wish to enhance their reproduction Game Boy cartridges.
+Welcome to my custom Game Boy cartridge label repository! This repository is dedicated to providing custom labels for various Game Boy games, especially focusing on romhacks and translations, as well as labels for specific cartridge types. These labels are perfect for enthusiasts and collectors who wish to enhance their reproduction Game Boy cartridges.
 
 ## Accessing the Labels
 
@@ -25,7 +25,7 @@ Additionally, I have labels for the following Mouse Bite Labs cartridge types:
 
 ## Printing Your Labels
 
-If you opt not to print these labels yourself, I recommend using the services of **MatthewMods** on Etsy for high-quality prints. Check out his shop [here](https://www.etsy.com/shop/Matthewmods?ref=krizdingus).
+Assuming you don't have access to a professional printer, I recommend using the services of **MatthewMods** on Etsy for high-quality prints. Check out his shop [here](https://www.etsy.com/shop/Matthewmods?ref=krizdingus).
 
 ## Usage Guidelines
 
@@ -33,6 +33,12 @@ These labels are provided free of charge for personal use. You are welcome to do
 
 - **Do not sell** the labels or any derivatives of these labels.
 - **Credit** the original designs if you share your modified versions.
+- If you adapt these labels for your use, you must ensure that the word "Reproduction" remains prominently displayed on the label, or some other clear indication is provided that the label is not an authentic original.
+
+
+## Ethical Usage
+
+I are committed to ethical usage of these labels. These labels are intended for personal use and enhancing reproduction Game Boy cartridges, not for creating counterfeit products. Each label includes the word "Reproduction" to ensure clear identification that these are not authentic original game labels. 
 
 ## License
 
@@ -46,4 +52,4 @@ Contributions to this repository are welcome! If you have improvements to existi
 
 If you have any questions or suggestions, feel free to open an issue on this repository, and I'll get back to you as soon as possible.
 
-Thank you for visiting the Game Boy Cartridge Labels Repository!
+Thank you for visiting!
