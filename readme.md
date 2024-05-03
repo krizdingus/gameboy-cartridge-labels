@@ -1,4 +1,4 @@
-# Krizdingus' Custom Game Boy Game Labels
+# Krizdingus' Custom Game Boy Cartridge Labels
 
 Welcome to the Game Boy Cartridge Labels Repository! This repository is dedicated to providing custom labels for various Game Boy games, especially focusing on romhacks and translations, as well as labels for specific cartridge types. These labels are perfect for enthusiasts and collectors who wish to enhance their reproduction Game Boy cartridges.
 
@@ -15,7 +15,7 @@ This repository includes high-quality labels for the following Game Boy games:
 - **Pokemon Picross** - [English translation](https://www.romhacking.net/translations/5702/) of the unreleased game.
 - **Pokemon Trading Card Game 2** - [English translation](https://www.romhacking.net/translations/1736/) of the sequel to the popular trading card game.
 
-Additionally, we have labels for the following Mouse Byte Labs cartridge types:
+Additionally, I have labels for the following Mouse Byte Labs cartridge types:
 
 - **MBC1 Cartridge** - [GitHub Repository](https://github.com/MouseBiteLabs/Game-Boy-MBC1-Cartridge), [Purchase on Etsy](https://www.etsy.com/listing/1605236472/game-boy-cartridge-pcb-mbc1?ref=krizdingus)
 - **MBC3 Cartridge** - [GitHub Repository](https://github.com/MouseBiteLabs/Game-Boy-MBC3-Cartridge), [Purchase on Etsy](https://www.etsy.com/listing/1605239014/game-boy-cartridge-pcb-mbc3?ref=krizdingus)
