@@ -38,7 +38,7 @@ These labels are provided free of charge for personal use. You are welcome to do
 
 ## Ethical Usage
 
-I are committed to ethical usage of these labels. These labels are intended for personal use and enhancing reproduction Game Boy cartridges, not for creating counterfeit products. Each label includes the word "Reproduction" to ensure clear identification that these are not authentic original game labels. 
+I am committed to ethical usage of these labels. These labels are intended for personal use and enhancing reproduction Game Boy cartridges, not for creating counterfeit products. Each label includes the word "Reproduction" to ensure clear identification that these are not authentic original game labels. 
 
 ## License
 
