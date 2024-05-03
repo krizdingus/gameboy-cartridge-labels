@@ -36,7 +36,7 @@ These labels are provided free of charge for personal use. You are welcome to do
 
 ## License
 
-This work is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License. You are free to share and adapt the material as long as you provide attribution and do not use it for commercial purposes. For more details, see the [license](LICENSE.md) file.
+This work is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) License. You are free to share and adapt the material as long as you provide attribution and do not use it for commercial purposes. For more details, see the [license](https://github.com/krizdingus/gameboy-cartridge-labels/blob/main/license.md) file.
 
 ## Contributing
 
