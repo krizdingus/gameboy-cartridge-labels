@@ -14,6 +14,7 @@ This repository includes high-quality labels for the following Game Boy games:
 - **Mega Man World 5 DX** - [A colorized version](https://www.romhacking.net/hacks/7413/) of the classic game.
 - **Pokemon Picross** - [English translation](https://www.romhacking.net/translations/5702/) of the unreleased game.
 - **Pokemon Trading Card Game 2** - [English translation](https://www.romhacking.net/translations/1736/) of the sequel to the popular trading card game.
+- **The Frog for Whom the Bell Tolls** - An english translation ([Patch](https://www.romhacking.net/translations/1623/), [Addendum](https://www.romhacking.net/translations/6517/)) of a Link's Awakening style Japan-exclusive adventure.
 
 Additionally, I have labels for the following Mouse Bite Labs cartridge types:
 
