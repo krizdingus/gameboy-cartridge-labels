@@ -10,6 +10,7 @@ All labels are stored in the `/labels` directory of this repository. Navigate to
 
 This repository includes high-quality labels for the following Game Boy games:
 
+- **Balloon Kid** - [English translation](https://www.romhacking.net/translations/2573/) of Balloon Fight GB, a remake of the original Balloon Kid previously released only in Japan via Nintendo Power.
 - **Game Boy Wars** - [English translation](https://www.romhacking.net/translations/7250/) of the original game.
 - **Mega Man World 5 DX** - [A colorized version](https://www.romhacking.net/hacks/7413/) of the classic game.
 - **Pokemon Picross** - [English translation](https://www.romhacking.net/translations/5702/) of the unreleased game.
